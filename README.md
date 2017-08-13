@@ -1,4 +1,4 @@
-#Library management system in C
+<b>Library management system in C</b>
 
 The project is a library record management system for the library admin.
 The admin hs to login to the application and he can perform various operations like 
